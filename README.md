@@ -1,6 +1,6 @@
 **PROJECT OVERVIEW:**
 
-Building a machine learning model - "LSTM" that identifies an anomalous trajectory of objects moving in space (Vehicles, missiles).
+**Building a machine learning model - "LSTM" that identifies an anomalous trajectory of objects moving in space (Vehicles, missiles).**
 
 This project comprises three stages (Each folder represents a step):
 
